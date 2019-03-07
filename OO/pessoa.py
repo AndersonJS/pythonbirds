@@ -5,6 +5,7 @@ class Pessoa:
 from OO.pessoa import Pessoa
 p = Pessoa()
 type(p)
+
 # <class 'OO.pessoa.Pessoa'>
 
 print(__name__)
